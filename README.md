@@ -7,6 +7,7 @@ Independent analyst. I rebuild contested figures in the technology, energy and A
 **Start here**
 - Interactive tools, change an input and watch the figure move: https://nmairesearch.github.io/
 - Papers, open-access and reproducible, under ORCID: https://orcid.org/0009-0003-4213-7769
+- Datasets on Hugging Face: https://huggingface.co/NMAIResearch
 - Each study archived with its own DOI on Zenodo (CC BY 4.0)
 
 Earlier background is ten years in operational process design and quality assurance. Business Management (BA, 2024). English and Hungarian, C2.
