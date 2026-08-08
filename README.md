@@ -1,6 +1,7 @@
 ## NM AI Research
 
-Independent analyst. I rebuild contested figures in the technology, energy and AI build-out from primary public data, and score forecasts, valuations and stated targets against what actually happens. Every quantitative claim is published with its dataset and a script that regenerates it, so any number can be checked at source.
+Independent analyst on the technology, energy and AI build-out: how it is financed and operated, and how its products shape what people spend and choose. Contested figures are rebuilt from primary public data and scored against what actually happens, with a reproducible method and runnable code behind every quantitative claim.
+
 
 **Method.** Separate an announced figure from the delivered one, tag each source by incentive, keep human judgement over the model's output, and set a falsifiable test for every forward call. Drafting is AI-assisted; the judgement is not.
 
