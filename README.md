@@ -1,6 +1,6 @@
 ## NM AI Research
 
-Independent researcher and analyst working on AI assurance, model evaluation, and the operational systems behind AI deployment.
+AI Systems, Model Evaluation & AI Assurance: independent research, empirical auditing, and operational tools.
 
 Manchester, UK · [nmairesearch.github.io](https://nmairesearch.github.io/) · [ORCID 0009-0003-4213-7769](https://orcid.org/0009-0003-4213-7769) · [Zenodo Archive](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22NM%20AI%20Research%22) · [Hugging Face](https://huggingface.co/NMAIResearch) · [Email](mailto:NMAIResearch@proton.me)
 
@@ -35,10 +35,10 @@ Earlier background is ten years in operations and process design, quality assura
 
 ### Core Focus & Methods
 
-- **AI Systems & Evaluation:** Model evaluations, uncertainty calibration (token entropy), agentic workflows and tool-calling interfaces (MCP), prompt injection and boundary testing, human-in-the-loop verification.
-- **Governance & Assurance:** EU AI Act (Article 50 transparency clauses), Model Risk Management (MRM), content provenance (C2PA, machine-readable markings), ISO/IEC 42001 concepts.
-- **Data Pipelines & Engineering:** Python (standard library, reproducible build.py and reproduce.py pipelines, SEC EDGAR and XBRL parsing), Vanilla JavaScript and HTML5 (zero-dependency interactive web tools), Git and GitHub Actions.
-- **Operations & Quality Assurance:** Ten years in operational process design, compliance auditing (92 per cent annual audit rating), root-cause analysis, cross-functional standard operating procedures.
+- **AI Systems & Evaluation:** Agentic workflows, tool-calling interfaces and MCP connectors, failure-mode discovery, uncertainty calibration (token entropy), prompt boundary testing, and human-in-the-loop verification.
+- **Model Governance & Assurance:** EU AI Act (Article 50 statutory auditing), Model Risk Management (MRM), content provenance (C2PA, machine-readable markings), and ISO/IEC 42001 concepts.
+- **Quantitative Research & Data:** Dataset curation audits (FineWeb-Edu), primary-record pipelines (SEC EDGAR and XBRL parsing), reproducible build.py and reproduce.py workflows, and compute and grid infrastructure modelling.
+- **Operations & Quality Assurance:** Ten years in operational process architecture, compliance auditing (92 per cent annual audit rating), root-cause analysis, and cross-functional standard operating procedures.
 
 ---
 
