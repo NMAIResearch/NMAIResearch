@@ -1,4 +1,4 @@
-## N. · NM AI Research
+## NM AI Research
 
 Independent researcher and analyst working on AI assurance, model evaluation, and the operational systems behind AI deployment.
 
@@ -45,7 +45,7 @@ Earlier background is ten years in operations and process design, quality assura
 ### Links & Verification
 
 - Interactive portfolio: https://nmairesearch.github.io/
-- Curriculum vitae: [N. CV (PDF)](https://nmairesearch.github.io/cv-removed.pdf)
+- Curriculum vitae: [CV / One-Pager (PDF)](https://nmairesearch.github.io/cv-removed.pdf)
 - Zenodo archive: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22NM%20AI%20Research%22
 - Hugging Face datasets: https://huggingface.co/NMAIResearch
 - ORCID record: https://orcid.org/0009-0003-4213-7769
