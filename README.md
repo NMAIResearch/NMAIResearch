@@ -2,7 +2,7 @@
 
 AI Systems, Model Evaluation & AI Assurance: independent research, empirical auditing, and operational tools.
 
-Manchester, UK · [nmairesearch.github.io](https://nmairesearch.github.io/) · [ORCID 0009-0003-4213-7769](https://orcid.org/0009-0003-4213-7769) · [Zenodo Archive](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22NM%20AI%20Research%22) · [Hugging Face](https://huggingface.co/NMAIResearch) · [Email](mailto:NMAIResearch@proton.me)
+EU - UK · [nmairesearch.github.io](https://nmairesearch.github.io/) · [ORCID 0009-0003-4213-7769](https://orcid.org/0009-0003-4213-7769) · [Zenodo Archive](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22NM%20AI%20Research%22) · [Hugging Face](https://huggingface.co/NMAIResearch) · [Email](mailto:NMAIResearch@proton.me)
 
 ---
 
