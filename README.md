@@ -26,7 +26,7 @@ Earlier background is ten years in operations and process design, quality assura
   [Interactive Explorer](https://nmairesearch.github.io/article50-explorer/) · [Zenodo DOI 10.5281/zenodo.21819102](https://doi.org/10.5281/zenodo.21819102) · [Source Code](https://github.com/NMAIResearch/article50-scoreboard)
 
 - **AI Infrastructure: Power, Water, and Grid Queues.** Rebuilt the Water Consumption Impact index across ten facilities, showing that closed-loop cooling shifts 92 to 95 per cent of the water footprint to the electrical grid. Modelled PJM and UK grid connection queue attrition, demonstrating that approximately one in five announced megawatts reaches final delivery.  
-  [Water Tracker](https://nmairesearch.github.io/ai-water-tracker/) · [Zenodo DOI 10.5281/zenodo.21318960](https://doi.org/10.5281/zenodo.21318960) · [Power Demand Tool](https://nmairesearch.github.io/contingent-demand/)
+  [Water Tracker](https://nmairesearch.github.io/ai-water-tracker/) · [Zenodo DOI 10.5281/zenodo.21318960](https://doi.org/10.5281/zenodo.21318960) · [Power Demand Tool](https://nmairesearch.github.io/announced-vs-deliverable-power/)
 
 - **The CEO Pay-vs-Delivery Scorecard.** Ingested SEC EDGAR Pay-vs-Performance disclosures across 495 S&P 500 issuers, separating granted from realised compensation against board performance targets and peer-relative returns.  
   [Scorecard](https://nmairesearch.github.io/ceo-pay-scorecard/) · [Zenodo DOI 10.5281/zenodo.20680108](https://doi.org/10.5281/zenodo.20680108) · [Source Code](https://github.com/NMAIResearch/ceo-pay-scorecard)
