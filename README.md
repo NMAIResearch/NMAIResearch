@@ -45,7 +45,7 @@ Earlier background is ten years in operations and process design, quality assura
 ### Links & Verification
 
 - Interactive portfolio: https://nmairesearch.github.io/
-- Curriculum vitae: [CV / One-Pager (PDF)](https://nmairesearch.github.io/Noel_Milton_CV_Short.pdf)
+- Curriculum vitae: awaiting upload
 - Zenodo archive: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22NM%20AI%20Research%22
 - Hugging Face datasets: https://huggingface.co/NMAIResearch
 - ORCID record: https://orcid.org/0009-0003-4213-7769
