@@ -20,6 +20,9 @@ Earlier background is ten years in operations and process design, quality assura
 
 ### Selected Work & Empirical Audits
 
+- **AI Infrastructure: Commitments, Delivery and Access.** Examines selected dated commitments, delivery stages and access obligations. The v7.1 bundle recalculates named balances and regenerates selected numerical content and tables from frozen inputs. An evidence lookup carries source references and qualifications alongside each quantity; arithmetic and file-integrity checks do not establish source truth or causal validity.<br>
+  [Paper](https://doi.org/10.5281/zenodo.20586863) · [Runnable bundle and example](https://github.com/NMAIResearch/ai-constraint-relay/tree/main/v7.1)
+
 - **What Actually Admits a Document to FineWeb-Edu.** Audited published quality-filter scores in a sample of 84,005,795 documents from 94 Common Crawl snapshots. Under the recorded rounding rule, admission requires a raw score strictly above 2.5; the sample contains 458,461 documents exactly at the excluded tie point. The classifier has a 510-token content budget. The corrected source and explorer distinguish score-distribution results from tokenisation estimates and leave the historical fixed-score extension unavailable pending recalculation. The linked historical PDF and dataset have not yet received this correction.<br>
   [Interactive Tool](https://nmairesearch.github.io/fineweb-edu-threshold/) · [Zenodo DOI 10.5281/zenodo.21740081](https://doi.org/10.5281/zenodo.21740081) · [Dataset on Hugging Face](https://huggingface.co/datasets/NMAIResearch/fineweb-edu-threshold) · [Source Code](https://github.com/NMAIResearch/fineweb-edu-threshold)
 
