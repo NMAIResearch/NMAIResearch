@@ -1,4 +1,4 @@
-## NM AI Research
+## NMAI Research
 
 AI-assisted research.
 
